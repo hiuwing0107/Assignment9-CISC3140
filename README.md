@@ -42,7 +42,7 @@
 
       Parameters list
       ?api_key=DEMO_KEY&date=2020-04-04&hd=true
-      hd true
+      hd : true
       
 {
   "copyright": "Fred Espenak",
